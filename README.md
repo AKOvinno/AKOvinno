@@ -3,27 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akovinno&label=Profile%20views&color=0e75b6&style=flat" alt="akovinno" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akovinno" alt="akovinno" /></a> </p>
-
 - 🔭 I’m currently working on [WarmStay - An Accommodation Listing and Discovery Platform](https://warmstay.onrender.com/listings)
 
 - 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-website-psi-five.vercel.app/](https://my-portfolio-website-psi-five.vercel.app/)
 
-- 📝 I regularly write articles on [https://openterminal.onrender.com](https://openterminal.onrender.com)
-
-- 💬 Ask me about **Node.js, Express, MongoDB, MySQL**
+- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, MySQL**
 
 - 📫 How to reach me **akovinno.official@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGskXvmCuQ/TczXKz1ySeyIC7hKqBtK5w/edit?utm_content=DAGskXvmCuQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGskXvmCuQ/TczXKz1ySeyIC7hKqBtK5w/edit?utm_content=DAGskXvmCuQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://shorturl.at/dzgp5](https://shorturl.at/dzgp5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@ovinno_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ovinno_official" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashfaq kadir ovinno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashfaq kadir ovinno" height="30" width="40" /></a>
-<a href="https://fb.com/ashfaq kadir ovinno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashfaq kadir ovinno" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akovinno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akovinno" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/akovinno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akovinno" height="30" width="40" /></a>
 </p>
 
