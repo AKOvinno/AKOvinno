@@ -52,7 +52,7 @@
 
 
 <a href="https://github.com/AKOvinno/thinkvault">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=warmstay&theme=tokyonight&cache_seconds=60" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=thinkvault&theme=tokyonight&cache_seconds=60" />
 </a>
 
 
