@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio - Website](https://my-portfolio-website-psi-five.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio - Website](https://my-portfolio-website-psi-five.vercel.app/)
 
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, MySQL**
 
 - 📫 How to reach me **akovinno.official@gmail.com**
 
-- 📄 Know about my experiences [resume](https://shorturl.at/dzgp5)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1tio360P98T5LEn4u9feDhuy92wCSgvjO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
