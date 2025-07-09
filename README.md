@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Ashfaq Kadir Ovinno</h1>
-<h3 align="center">A passionate Full stack developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akovinno&label=Profile%20views&color=0e75b6&style=flat" alt="akovinno" /> </p>
 
-- 🔭 I’m currently working on [WarmStay](https://warmstay.onrender.com/listings)
+- 🔭 I’m currently working on [WarmStay](https://warmstay.onrender.com/listings) It's one of my personal project.
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-psi-five.vercel.app/](https://my-portfolio-website-psi-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio - Website](https://my-portfolio-website-psi-five.vercel.app/)
 
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, MySQL**
 
 - 📫 How to reach me **akovinno.official@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/dzgp5](https://shorturl.at/dzgp5)
+- 📄 Know about my experiences [Resume](https://shorturl.at/dzgp5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
