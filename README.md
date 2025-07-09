@@ -43,11 +43,7 @@
 ### My Projects ✨:
   
 <a href="https://github.com/AKOvinno/warmstay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=warmstay&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/AKOvinno/warmstay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=warmstay&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=warmstay&theme=tokyonightcache_seconds=60" />
 </a>
 
 
@@ -57,7 +53,7 @@
 
 
 <a href="https://github.com/AKOvinno/openterminal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=openterminal&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=openterminal&theme=tokyonightcache_seconds=60" />
 </a>
 
 
