@@ -54,4 +54,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=warmstay&theme=tokyonight&cache_seconds=60" />
 </a>
 
+<a href="https://github.com/AKOvinno/Bank_Management_System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=Bank_Management_System&theme=tokyonight&cache_seconds=60" />
+</a>
 
