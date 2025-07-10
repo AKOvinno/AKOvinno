@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [WarmStay](https://warmstay.onrender.com/listings) It's one of my personal project.
 
-- 🌱 I’m continously learning **Full Stack Development**
+- 🌱 I’m continuously learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio - Website](https://my-portfolio-website-psi-five.vercel.app/)
 
