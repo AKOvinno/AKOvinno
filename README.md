@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akovinno.official@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1CM19fDPKHUFIGlLm--fgXmsIbsuBkVqV/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qfu_B2b6mIhUHX3V_hk1rLOWbQJ_3gQk/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
