@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [WarmStay](https://warmstay.onrender.com/listings) It's one of my personal project.
 
-- 🌱 I’m continuously learning **Full Stack Development**
+- 🌱 I’m continuously learning **Full Stack Development**.
 
-- 👨‍💻 All of my projects are available at [Portfolio - Website](https://my-portfolio-website-psi-five.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio - Website](https://my-portfolio-website-psi-five.vercel.app/).
 
-- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, MySQL**
+- 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, MySQL**.
 
-- 📫 How to reach me **akovinno.official@gmail.com**
+- 📫 How to reach me **akovinno.official@gmail.com**.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15W3qwYTWzIRczlGeAE4B4bo545p1bxJ4/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15W3qwYTWzIRczlGeAE4B4bo545p1bxJ4/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
