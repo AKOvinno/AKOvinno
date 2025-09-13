@@ -7,13 +7,13 @@
 
 - 🌱 I’m continuously learning **Full Stack Development**.
 
-- 👨‍💻 All of my projects are available at [Portfolio - Website](https://my-portfolio-website-psi-five.vercel.app/).
+- 👨‍💻 All of my projects are available at [ovinno-portfolio.vercel.app](https://ovinno-portfolio.vercel.app/).
 
 - 💬 Ask me about **JavaScript, Node.js, Express, MongoDB, MySQL**.
 
 - 📫 How to reach me **akovinno.official@gmail.com**.
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13RgBNWUH60WhcYHctgedgZJfIdOJvA_n/view?usp=sharing).
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17vhG2RrQ9WAdkSQ-Od27MOdP2aiT47w0/view?usp=sharing).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
