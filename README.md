@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akovinno&label=Profile%20views&color=0e75b6&style=flat" alt="akovinno" /> </p>
 
-- 🔭 I’m currently working on [WarmStay](https://warmstay.onrender.com/listings) It's one of my personal project.
+- 🔭 I’m currently working on Firm Coders as an AI Automation Engineer.
 
 - 🌱 I’m continuously learning **Full Stack Development**.
 
