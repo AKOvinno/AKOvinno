@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashfaq Kadir Ovinno</h1>
-<h3 align="center">A passionate Software developer from Bangladesh</h3>
+<h3 align="center">A passionate software developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akovinno&label=Profile%20views&color=0e75b6&style=flat" alt="akovinno" /> </p>
 
