@@ -41,6 +41,14 @@
 <br>
 
 ### My Projects ✨:
+
+<a href="https://github.com/AKOvinno/Dukaan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=thinkvault&theme=tokyonight&cache_seconds=60" />
+</a>
+
+<a href="https://github.com/AKOvinno/MiniOrm">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=thinkvault&theme=tokyonight&cache_seconds=60" />
+</a>
   
 <a href="https://github.com/AKOvinno/thinkvault">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AKOvinno&repo=thinkvault&theme=tokyonight&cache_seconds=60" />
